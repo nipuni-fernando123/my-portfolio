@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.7a0d5b22.css",
+    "main.js": "/my-portfolio/static/js/main.d41b2682.js",
+    "static/js/787.fc1d3d14.chunk.js": "/my-portfolio/static/js/787.fc1d3d14.chunk.js",
+    "static/media/8.jpg": "/my-portfolio/static/media/8.7cefbe1476e302a607ff.jpg",
+    "static/media/Invitation.jpg": "/my-portfolio/static/media/Invitation.7f58b2fa21adf767fdda.jpg",
+    "static/media/10.jpg": "/my-portfolio/static/media/10.f9bdc9fc4eb72a9f0f29.jpg",
+    "static/media/1.png": "/my-portfolio/static/media/1.da3f3bad2388b765248c.png",
+    "static/media/03.png": "/my-portfolio/static/media/03.4f52f23a167f38926618.png",
+    "static/media/04.png": "/my-portfolio/static/media/04.269b1c54a1828f0ea73f.png",
+    "static/media/02.png": "/my-portfolio/static/media/02.c86e44c1c7e1ac352f33.png",
+    "static/media/9.jpg": "/my-portfolio/static/media/9.58a29397cb4304895453.jpg",
+    "static/media/05.png": "/my-portfolio/static/media/05.c548845eb28a5703f1bc.png",
+    "static/media/01.png": "/my-portfolio/static/media/01.5c22a585f2afccedfc86.png",
+    "static/media/2.png": "/my-portfolio/static/media/2.563605126f9a61856e6c.png",
+    "static/media/11.jpg": "/my-portfolio/static/media/11.03ab5b2aa2f868999cc3.jpg",
+    "static/media/pic.png": "/my-portfolio/static/media/pic.0e2c30d14c5cebf45034.png",
+    "static/media/WeddingInvitation1.jpg": "/my-portfolio/static/media/WeddingInvitation1.86453a397246f4f13c60.jpg",
+    "static/media/5.png": "/my-portfolio/static/media/5.373e18cc1e99d565f79d.png",
+    "static/media/CV_NipuniFernando.pdf": "/my-portfolio/static/media/CV_NipuniFernando.544be87c159eb128bed0.pdf",
+    "static/media/U1.jpg": "/my-portfolio/static/media/U1.cf9442d7e426a2b8d529.jpg",
+    "static/media/4.jpg": "/my-portfolio/static/media/4.e6a96ed352f844bd876a.jpg",
+    "static/media/17.jpg": "/my-portfolio/static/media/17.91a3855a099437dedd73.jpg",
+    "static/media/BusinessCard3.jpg": "/my-portfolio/static/media/BusinessCard3.f4d0c51b5fb23bc27825.jpg",
+    "static/media/U4.jpg": "/my-portfolio/static/media/U4.ecfb9217385892f4416c.jpg",
+    "static/media/U3.jpg": "/my-portfolio/static/media/U3.0a0c9f87d70d0afa58ac.jpg",
+    "static/media/NEWLOGO.png": "/my-portfolio/static/media/NEWLOGO.94c7249aa38a14d294a7.png",
+    "static/media/U2.jpg": "/my-portfolio/static/media/U2.b2ca8da0d1f532312679.jpg",
+    "static/media/3.JPG": "/my-portfolio/static/media/3.777ae92c05737b36cc33.JPG",
+    "static/media/LOGO.jpg": "/my-portfolio/static/media/LOGO.b13b461ce351530839ea.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.7a0d5b22.css.map": "/my-portfolio/static/css/main.7a0d5b22.css.map",
+    "main.d41b2682.js.map": "/my-portfolio/static/js/main.d41b2682.js.map",
+    "787.fc1d3d14.chunk.js.map": "/my-portfolio/static/js/787.fc1d3d14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a0d5b22.css",
+    "static/js/main.d41b2682.js"
+  ]
+}
